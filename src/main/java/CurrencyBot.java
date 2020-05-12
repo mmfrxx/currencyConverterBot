@@ -103,10 +103,10 @@ public class CurrencyBot extends TelegramLongPollingBot {
     }
 
     public String getBotUsername() {
-        return "MyForJobCurrencyBot";
+        return "BOT'S_NAME";
     }
 
     public String getBotToken() {
-        return "1093595836:AAFxkZl7I0kGCF43u781yw4ByCd8z4V5O5I";
+        return "BOT_TOKEN";
     }
 }
